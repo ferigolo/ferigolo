@@ -4,6 +4,7 @@
 
 Transforming complex requirements into robust and scalable software solutions. Specialist in automation, IoT, and full stack web development.
 
+
 ## **About Me**
 
 I am a Computer Science student at the Federal University of Santa Catarina (UFSC) and a professional software developer. I am passionate about **DevOps**, **IoT communication**, and **Full Stack** architectures.
@@ -13,6 +14,7 @@ My journey ranges from creating vehicle telemetry systems for **Renault** to cli
 * **Location:** Florianópolis, SC, Brazil  
 * **Languages:** Portuguese (Native), English (C2), French (A1)  
 * **Contact:** [ferigolochielleenzo@gmail.com](mailto:ferigolochielleenso@gmail.com)
+
 
 ## **Tech Stack**
 
@@ -27,6 +29,7 @@ My journey ranges from creating vehicle telemetry systems for **Renault** to cli
 * **IoT & Protocols:** MQTT, WebSocket, 5G  
 * **Hardware:** VHDL, Digital Circuits  
 * **Design:** UX/UI Design
+
 
 ## **Professional Experience**
 
@@ -61,12 +64,14 @@ Complete management system for a medical clinic (Freelance).
   * Development of automatic scheduling and staff management.  
   * Complete UX/UI design and custom administrative dashboard.
 
+
 ## **Education**
 
 B.S. in Computer Science  
 Federal University of Santa Catarina (UFSC) | 2022 \- Present
 
 * Research Intern at LISHA laboratory in partnership with Renault Group.
+
 
 ## **Certificates & Courses**
 
