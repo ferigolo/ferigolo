@@ -13,7 +13,7 @@ My journey ranges from creating vehicle telemetry systems for **Renault** to cli
 
 * **Location:** Florianópolis, SC, Brazil  
 * **Languages:** Portuguese (Native), English (C2), French (A1)  
-* **Contact:** [ferigolochielleenzo@gmail.com](mailto:ferigolochielleenso@gmail.com)
+* **Contact:** [ferigolochielleenzo@gmail.com](mailto:ferigolochielleenzo@gmail.com)
 
 
 ## **Tech Stack**
